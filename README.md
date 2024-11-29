@@ -92,9 +92,11 @@ The tasks are saved in a file named task.json with the following structure:
     }
 }
 Customization
+
 You can modify the default statuses or additional task properties by editing the script directly.
 
 License
 This project is released under the MIT License. Feel free to use and modify it as needed.
 
 This README ensures a smooth introduction to the project and provides clear guidance for end-users. Save it as README.md in your project directory.
+project URL: https://github.com/moimoi05/Task-Tracker/tree/main
