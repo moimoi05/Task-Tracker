@@ -14,8 +14,6 @@ Prerequisites
 Python 3.x installed on your system.
 Basic knowledge of running Python scripts.
 File Structure
-bash
-Sao chép mã
 Task_Tracker/
 │
 ├── task.json          # Stores task data
@@ -28,14 +26,11 @@ How to Use
 1. Run the Script
 Execute the script using Python:
 
-bash
-Sao chép mã
 python Task_Tracker.py
 2. Choose an Option from the Menu
 After running the script, you will see a menu like this:
 
 markdown
-Sao chép mã
 CHOOSE YOUR OPTION BELOW:
 1. ADD TASK
 2. UPDATE TASK
@@ -77,7 +72,6 @@ JSON Data Format
 The tasks are saved in a file named task.json with the following structure:
 
 json
-Sao chép mã
 {
     "1": {
         "description": "Buy groceries",
